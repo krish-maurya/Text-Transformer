@@ -6,7 +6,7 @@ A fast and user-friendly **React-based text utility app** that helps you manipul
 
 ### 🔗 Live Demo
 
-[🚀 Try it Live](https://krish-maurya.github.io/Text-Transformer)
+* [Text Transformer](https://text-transformer.onrender.com/)
 
 ---
 
